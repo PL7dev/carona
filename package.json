@@ -23,5 +23,8 @@
     "eslint": "^9",
     "eslint-config-next": "15.4.4",
     "@eslint/eslintrc": "^3"
+  },
+  "prisma": {
+    "schema": "backend/prisma/schema.prisma"
   }
 }
